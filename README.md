@@ -16,8 +16,19 @@ MARLeME's functionality, by providing new implementations of extracted models, e
 
 [Overview](#overview)
 
-
 [Setup](#setup)
+
+[Data Preprocessing](#data-handling)
+
+[Model Extraction](#model-extraction)
+
+[Extracted Models](#extracted-models)
+
+[Generating LIME Explanations](#lime-explanation-generation)
+
+[Supported Extracted Models](#supported-extracted-models)
+
+[Files/Directories](#files-directories)
 
 
 ## Overview
