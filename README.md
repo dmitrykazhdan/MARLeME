@@ -12,6 +12,14 @@ such MARL systems and tools with explainability and interpretability.
 MARLeME's modularity permits straightforward extension of its functionality. Thus, we invite interested users to add on to
 MARLeME's functionality, by providing new implementations of extracted models, extraction algorithms, and data handling.
 
+## Contents
+
+[Overview](#overview)
+
+
+[Setup](#setup)
+
+
 ## Overview
 
 Multi-Agent Reinforcement Learning (MARL) encompasses a powerful class of methodologies that have been 
