@@ -12,6 +12,14 @@ such MARL systems and tools with explainability and interpretability.
 MARLeME's modularity permits straightforward extension of its functionality. Thus, we invite interested users to add on to
 MARLeME's functionality, by providing new implementations of extracted models, extraction algorithms, and data handling.
 
+
+## Citing
+
+If you find this code useful in your research, please consider citing:
+
+TBC
+
+
 ## Contents
 
 [Overview](#overview)
