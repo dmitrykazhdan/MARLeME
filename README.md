@@ -17,7 +17,14 @@ MARLeME's functionality, by providing new implementations of extracted models, e
 
 If you find this code useful in your research, please consider citing:
 
-TBC
+```
+@article{kazhdan2020marleme,
+  title={MARLeME: A Multi-Agent Reinforcement Learning Model Extraction Library},
+  author={Kazhdan, Dmitry and Shams, Zohreh and Li{\`o}, Pietro},
+  journal={arXiv preprint arXiv:2004.07928},
+  year={2020}
+}
+```
 
 
 ## Contents
